@@ -1,6 +1,6 @@
 # New Hack, Who This : Discord Bot
 Moodsic: A Discord Bot that generates mood based playlists and plays them directly in your discord server's voice channels.
-Made as a part of MLH's New Hack Who This? Hackathon.
+Made as a part of MLH's New Hack Who This? Hackathon. \
 Music AI
 
 ## How to Run
